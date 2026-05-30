@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploadersalculate",
+        "uuid": 7251260,
+        "checksum": "zwmyf5"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
